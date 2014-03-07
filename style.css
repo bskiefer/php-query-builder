@@ -1,0 +1,51 @@
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans+SC);
+
+body, legend {
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+form {
+
+}
+
+.result input {
+	margin-bottom:1em;
+}
+.create input {
+}
+
+label {
+	margin-left:.3em;
+}
+
+div.result {
+	border:1px solid black;
+	padding:1em;
+	margin:.5em;
+	font-family:'lucida sans';
+	font-size:.7em
+}
+
+div.qbuilder {
+	width:45%;
+	position:absolute;
+}
+#qresultcont {
+	font-family:'lucida sans';
+	font-size:.7em;
+	width:50%;
+	float:right;
+	border:1px dotted #990000;
+	margin-top:-1.8em;
+}
+
+#qresultcont legend {
+	font-size:1.5em;
+	color:#990000;
+}
+
+button {
+	position:relative;
+	display:block;
+	
+}
